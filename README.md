@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola soy Lucas 👋
 
 <!--
 **lucasmoauro/lucasmoauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg
+https://cdn.worldvectorlogo.com/logos/html-1.svg
+Toolbox
+
+<img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' alt='js image' width='40' />  <img src='https://cdn.worldvectorlogo.com/logos/css-3.svg' alt='js image' width='35' />
+<img src='https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg' alt='js image' width='40' /> -->
