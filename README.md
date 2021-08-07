@@ -85,7 +85,7 @@ i saw an opportunity to learn something i had lingering since my childhood.<br/>
 
 </div>
 <br/>
-<div align="center">
+<p align="center">
   
   <h2 align="left">My stats</h2>
   
@@ -93,4 +93,4 @@ i saw an opportunity to learn something i had lingering since my childhood.<br/>
   
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmoauro&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="lucasmoauro languages" />
   
- </div>
+ </p>
