@@ -8,8 +8,8 @@
 <p align="left"><strong>I live in Buenos Aires, Argentina. With my partner and my shih tzu "Mochi":dog:.
 
 I started self-studying frontend early 2021 due to Covid quarantine and because<br/>
-i saw an opportunity to learn something i had lingering since my childhood.<br/>
-  I like challenges and the freedom the code gives you to solve them.</strong></p>
+I saw an opportunity to learn something that I put off for so long.<br/>
+  I like challenges and the freedom that coding gives you to solve them.</strong></p>
 
 - 🌱 I’m currently learning **React and NodeJs.**
 
