@@ -23,7 +23,6 @@ I like challenges and the freedom the code gives you to solve them.</p>
 <hr/>
 <div>
 <a href="https://github.com/lucasmoauro/Recetas-App"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=Recetas-App&theme=midnight-purple"></img></a>
-<a href="https://github.com/lucasmoauro/GlassLogin"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=GlassLogin&theme=midnight-purple"></img></a>
 <a href="https://github.com/lucasmoauro/ToDo-App"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=ToDo-App&theme=midnight-purple"></img></a>
 <a href="https://github.com/lucasmoauro/CSSAnimations"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=CSSAnimations&theme=midnight-purple"></img></a>
 </div>
