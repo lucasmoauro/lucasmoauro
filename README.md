@@ -5,7 +5,7 @@
 
 
 <h2 align="left">About me:</h2>
-<p align="left"><strong>I live in Buenos Aires, Argentina. With my partner and my shih tzu "Mochi":dog:.
+<p align="left"><strong>I live in Buenos Aires, Argentina. With my partner and my shih tzu "<a href="https://res.cloudinary.com/dw33r7aul/image/upload/v1628432342/github/mochi_flkpjo.jpg" target="_blank">Mochi</a>":dog:.
 
 I started self-studying frontend early 2021 due to Covid quarantine and because<br/>
 I saw an opportunity to learn something that I put off for so long.<br/>
