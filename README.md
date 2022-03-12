@@ -11,7 +11,7 @@ I started self-studying frontend early 2021 due to Covid quarantine and because<
 I saw an opportunity to learn something that I put off for so long.<br/>
   I like challenges and the freedom that coding gives you to solve them.</strong></p>
 
-- 🌱 I’m currently learning **React and NodeJs.**
+- 🌱 I’m currently learning **NextJs and Node.**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,19 +30,16 @@ I saw an opportunity to learn something that I put off for so long.<br/>
   </a>
   
   <br >
-   <br >
-  <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  
-   <a href="https://angular.io" target="_blank">
-     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a> 
-  
+   <br >  
   <a href="https://reactjs.org/" target="_blank">
      <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" alt="react" width="40" height="40"/>
   </a> 
-  
+     <a href="https://sass-lang.com/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  alt="sass" width="40" height="40" />
+   </a> 
+       <a href="https://firebase.google.com/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
+     </a> 
   <br >
    <br >
   <a href="https://expressjs.com" target="_blank">
@@ -56,11 +53,8 @@ I saw an opportunity to learn something that I put off for so long.<br/>
   <a href="https://postman.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  
-  <a href="https://git-scm.com/" target="_blank"> 
-     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  
+    
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
