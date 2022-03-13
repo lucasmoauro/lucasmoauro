@@ -59,7 +59,7 @@ I saw an opportunity to learn something that I put off for so long.<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas-moauro" target="blank">
+<a href="https://linkedin.com/in/lucas-moauro" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-moauro linkedin" height="30" width="40" />
   </a>
   <a href="mailto:lmoauro6@gmail.com">
