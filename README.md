@@ -74,6 +74,10 @@ I saw an opportunity to learn something that I put off for so long.<br/>
 <div>
   <h2>My Repos</h2>
   
+  <a href="https://github.com/lucasmoauro/listado-mangas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=listado-mangas&theme=nightowl" alt="Listado de Mangas"/>
+</a>
+  
 <a href="https://github.com/lucasmoauro/Recetas-React">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=Recetas-React&theme=nightowl" alt="Recetas react"/>
   </a>
@@ -86,9 +90,7 @@ I saw an opportunity to learn something that I put off for so long.<br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=GlassLogin&theme=nightowl" alt="Glassmorph Login"/>
   </a>
   
-<a href="https://github.com/lucasmoauro/ToDo-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=ToDo-App&theme=nightowl" alt="To Do List"/>
-</a>
+
 
 
 
