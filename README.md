@@ -28,18 +28,31 @@ I saw an opportunity to learn something that I put off for so long.<br/>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  
-  <br >
-   <br >  
-  <a href="https://reactjs.org/" target="_blank">
+   <a href="https://reactjs.org/" target="_blank">
      <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" alt="react" width="40" height="40"/>
   </a> 
-     <a href="https://sass-lang.com/" target="_blank"> 
+  <br >
+   <br >  
+
+   <a href="https://sass-lang.com/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  alt="sass" width="40" height="40" />
    </a> 
-       <a href="https://firebase.google.com/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
+      <a href="https://styled-components.com/" target="_blank"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"  alt="Styled Components" width="40" height="40" />
+   </a> 
+  
+   <a href="https://mui.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" alt="MaterialUi" width="40" height="40"/>
      </a> 
+  
+   <a href="https://redux-toolkit.js.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"  alt="Redux Toolkit" width="40" height="40" />
+   </a> 
+  
+ 
+  
+  
+ 
   <br >
    <br >
   <a href="https://expressjs.com" target="_blank">
@@ -53,8 +66,10 @@ I saw an opportunity to learn something that I put off for so long.<br/>
   <a href="https://postman.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-    
-
+   
+  <a href="https://firebase.google.com/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
+     </a> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -74,6 +89,10 @@ I saw an opportunity to learn something that I put off for so long.<br/>
 <div>
   <h2>My Repos</h2>
   
+  <a href="https://github.com/lucasmoauro/Pokeapi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=Pokeapi&theme=nightowl" alt="PokeApi app"/>
+  </a>
+  
    <a href="https://github.com/lucasmoauro/listado-mangas">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=listado-mangas&theme=nightowl" alt="Listado de Mangas"/>
  </a> 
@@ -81,11 +100,7 @@ I saw an opportunity to learn something that I put off for so long.<br/>
 <a href="https://github.com/lucasmoauro/Recetas-React">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=Recetas-React&theme=nightowl" alt="Recetas react"/>
   </a>
-  
-<a href="https://github.com/lucasmoauro/Recetas-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=Recetas-App&theme=nightowl" alt="Recipe app"/>
-  </a>
-  
+    
 <a href="https://github.com/lucasmoauro/GlassLogin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=GlassLogin&theme=nightowl" alt="Glassmorph Login"/>
   </a>
