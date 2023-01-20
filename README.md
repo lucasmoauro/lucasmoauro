@@ -85,7 +85,7 @@ I saw an opportunity to learn something that I put off for so long.<br/>
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="telegram" hight="30" width="40" />
   </a>
 </p>
-
+<!--  
 <div>
   <h2>My Repos</h2>
   
@@ -120,3 +120,4 @@ I saw an opportunity to learn something that I put off for so long.<br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmoauro&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="lucasmoauro languages" />
   
  </p>
+-->
