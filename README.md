@@ -1,17 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmoauro&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmoauro" /> </p>
 <h1 align="center">Hi, I'm Lucas!👋</h1>
-<h3 align="center">A self-taught frontend developer from Argentina</h3>
-
 
 
 <h2 align="left">About me:</h2>
-<p align="left"><strong>I live in Buenos Aires, Argentina. With my partner and my shih tzu "<a href="https://res.cloudinary.com/dw33r7aul/image/upload/v1628432342/github/mochi_flkpjo.jpg" target="_blank">Mochi</a>":dog:.
+<p align="left"><strong>I live in Fray Bentos, Uruguay. With my partner and my shih tzu "<a href="https://res.cloudinary.com/dw33r7aul/image/upload/v1628432342/github/mochi_flkpjo.jpg" target="_blank">Mochi</a>":dog:.
 
-I started self-studying frontend early 2021 due to Covid quarantine and because<br/>
-I saw an opportunity to learn something that I put off for so long.<br/>
-  I like challenges and the freedom that coding gives you to solve them.</strong></p>
-
-- 🌱 I’m currently learning **NextJs and Node.**
+- 🌱 I’m currently learning **NextJs and React Native.**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -85,7 +79,7 @@ I saw an opportunity to learn something that I put off for so long.<br/>
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="telegram" hight="30" width="40" />
   </a>
 </p>
-<!--  
+
 <div>
   <h2>My Repos</h2>
   
@@ -93,31 +87,17 @@ I saw an opportunity to learn something that I put off for so long.<br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=Pokeapi&theme=nightowl" alt="PokeApi app"/>
   </a>
   
-   <a href="https://github.com/lucasmoauro/listado-mangas">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=listado-mangas&theme=nightowl" alt="Listado de Mangas"/>
+   <a href="https://github.com/lucasmoauro/control-stock">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=control-stock&theme=nightowl" alt="Control de stock"/>
  </a> 
   
 <a href="https://github.com/lucasmoauro/Recetas-React">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=Recetas-React&theme=nightowl" alt="Recetas react"/>
   </a>
-    
-<a href="https://github.com/lucasmoauro/GlassLogin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmoauro&repo=GlassLogin&theme=nightowl" alt="Glassmorph Login"/>
-  </a>
+  
   
 
 
 
 
 </div>
-<br/>
-<p align="center">
-  
-  <h2 align="left">My stats</h2>
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasmoauro&show_icons=true&locale=en&theme=nightowl" alt="lucasmoauro github stats" />
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmoauro&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="lucasmoauro languages" />
-  
- </p>
--->
